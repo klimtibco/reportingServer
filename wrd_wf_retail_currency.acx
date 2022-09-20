@@ -1,0 +1,3 @@
+ SEGNAME=WRD_WF_RETAIL_CURRENCY, 
+   TABLENAME=public.wrd_wf_retail_currency, 
+   CONNECTION=CON1, $
